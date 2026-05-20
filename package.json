@@ -1,0 +1,12 @@
+{
+  "name": "leadharvest",
+  "version": "1.0.0",
+  "description": "LeadHarvest AI - Gemini powered B2B lead scraper",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "123.0.1",
+    "puppeteer-core": "22.6.5"
+  }
+}
